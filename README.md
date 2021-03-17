@@ -1,4 +1,4 @@
-## Data Crawling
+## Data Collection
 
 #### 일반적인 데이터 처리 단계
 
